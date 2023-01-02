@@ -2,8 +2,8 @@
 The .ttf file based on  font based on Zack Freedman's handwriting. 
 
 Download the .ttf font from here by cloning it. Once that is done, follow the links according to the software you use or wish to use : 
-	[MS Word](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1)
-	[Google Docs](https://edu.gcfglobal.org/en/googledocuments/adding-more-fonts/1/)
+	<br>[MS Word](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1)
+	<br>[Google Docs](https://edu.gcfglobal.org/en/googledocuments/adding-more-fonts/1/)
 
 ### Problems with v1.0 - 
 1. Only small letter Alphabets are supported right now. No capital letters, digits or a special     characters
