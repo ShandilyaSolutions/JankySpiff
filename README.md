@@ -13,7 +13,7 @@ This is because nothing except capital letters, digits, and few special characte
 	![Problem with O](https://github.com/ShandilyaSolutions/JankySpiff/blob/main/imagesForReadme/problem2.png)
 
 Something similar hapenned with digits so I had to remove them. Here is a picture denoting the problem with numbers : 
-	![Problems with digits](https://github.com/ShandilyaSolutions/JankySpiff/blob/main/imagesForReadme/problems1.png)
+	<br>![Problems with digits](https://github.com/ShandilyaSolutions/JankySpiff/blob/main/imagesForReadme/problems1.png)
 	
 I guess this is because of the shape of the numbers and digits that are round. It is completely solve able but needs someone who is more experienced with the tools. If you think you are able to solve this issue, then go ahead to [this repository](https://github.com/ShandilyaSolutions/ZackHandwriting) where you will find all the svg files for this project. Download it and help me in fixing the errors
 
