@@ -1,9 +1,9 @@
 # JankySpiff
 The .ttf file based on  font based on Zack Freedman's handwriting. 
 
-Download the .ttf font from here by cloning it. Once that is done, follow the links according to the software you use or wish to use : 
-	<br>[MS Word](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1)
-	<br>[Google Docs](https://edu.gcfglobal.org/en/googledocuments/adding-more-fonts/1/)
+Download the .ttf font from here by cloning it. And then add it to the software you want to use. *Sadly Google docs doesn't support custom .ttf font addition.* ***But you can add a custom font to MS WORD whome link is provided : *** [here](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1).
+
+You have to research about the tool you want to use. Google will make the task very easy.
 
 ### Problems with v1.0 - 
 1. Only small letter Alphabets are supported right now. No capital letters, digits or a special     characters
