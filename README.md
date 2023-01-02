@@ -17,7 +17,7 @@ Something similar hapenned with digits so I had to remove them. Here is a pictur
 	
 I guess this is because of the shape of the numbers and digits that are round. It is completely solve able but needs someone who is more experienced with the tools. If you think you are able to solve this issue, then go ahead to [this repository](https://github.com/ShandilyaSolutions/ZackHandwriting) where you will find all the svg files for this project. Download it and help me in fixing the errors
 
-###Version 1.5 -
+### Version 1.5 -
 I will be redoing everything by processing the png files to remove that extra thick boundary lines, once that is done, this font could be used in much smaller sizes too.
 
 ### Things to change in 2.0 -
