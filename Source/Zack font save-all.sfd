@@ -1,14 +1,14 @@
 SplineFontDB: 3.2
-FontName: Spiffy-all
+FontName: Spiffy_all
 FullName: Spiffy all
-FamilyName: Spiffy-all
+FamilyName: Spiffy all
 Weight: Regular
 Copyright: Copyright (c) 2023, Razvii
 UComments: "2023-1-6: Created with FontForge (http://fontforge.org)"
-Version: 002.000
+Version: 003.000
 ItalicAngle: 0
-UnderlinePosition: -102.4
-UnderlineWidth: 51.2
+UnderlinePosition: -102
+UnderlineWidth: 51
 Ascent: 819
 Descent: 205
 InvalidEm: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1673019662
-ModificationTime: 1673032342
+ModificationTime: 1673033592
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0

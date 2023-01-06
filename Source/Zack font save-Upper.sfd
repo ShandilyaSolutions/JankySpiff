@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: Spiffy-upper
+FontName: Spiffy_upper
 FullName: Spiffy upper
-FamilyName: Spiffy-upper
+FamilyName: Spiffy upper
 Weight: Regular
 Copyright: Copyright (c) 2023, Razvii
 UComments: "2023-1-6: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 003.000
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1673019662
-ModificationTime: 1673032638
+ModificationTime: 1673033576
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0

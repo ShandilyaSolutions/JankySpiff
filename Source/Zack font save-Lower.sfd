@@ -1,14 +1,14 @@
 SplineFontDB: 3.2
-FontName: Spiffy-lower
+FontName: Spiffy_lower
 FullName: Spiffy lower
-FamilyName: Spiffy-lower
+FamilyName: Spiffy lower
 Weight: Regular
 Copyright: Copyright (c) 2023, Razvii
 UComments: "2023-1-6: Created with FontForge (http://fontforge.org)"
-Version: 002.000
+Version: 003.000
 ItalicAngle: 0
-UnderlinePosition: -102.4
-UnderlineWidth: 51.2
+UnderlinePosition: -102
+UnderlineWidth: 51
 Ascent: 819
 Descent: 205
 InvalidEm: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1673019662
-ModificationTime: 1673032301
+ModificationTime: 1673033561
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
